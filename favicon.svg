@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 9091dd37fac22258</metadata>
-  <rect width="64" height="64" rx="15" fill="hsl(289 68% 34%)"/>
-  <path d="M31 0h33v64H17Z" fill="hsl(53 63% 64%)" opacity="0.82"/>
-  <g transform="rotate(293 32 32)" opacity="0.42"><circle cx="32" cy="32" r="17" fill="none" stroke="#ffffff" stroke-width="7"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">SI</text>
+  <title>신도림 가라오케 예약</title>
+  <rect width="64" height="64" rx="10" fill="hsl(289 63% 30%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(75 68% 68%)" opacity="0.16"/>
+  <g transform="rotate(90 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(289 24% 96%)" stroke-width="6" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(75 68% 68%)"/></g>
 </svg>
